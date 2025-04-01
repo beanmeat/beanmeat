@@ -4,7 +4,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/beanmeat/beanmeat/output/github-contribution-grid-snake.svg" />
 </picture> 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beanmeat&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beanmeat&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
