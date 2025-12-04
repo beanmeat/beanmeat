@@ -37,7 +37,7 @@
   <br />
 
   <!-- 个人贡献图片 -->
-  <img src="./profile-night-rainbow.svg" alt="profile-night-rainbow" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="profile-night-rainbow" />
 
   <br />
   <br />
