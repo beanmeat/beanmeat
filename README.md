@@ -1,15 +1,4 @@
 <div align="center">
-  <!-- 顶部动态文字 -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=&size=23&pause=1000&color=F79100&background=7A44FF00&width=435&lines=%F0%9F%92%ACspeak+less+do+more%EF%BC%81%F0%9F%92%BB" alt="Typing SVG" />
-    </a>
-  </p>
-
-
-  <br />
-  <br />
-
   <!-- GitHub 贪吃蛇贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beanmeat/beanmeat/output/github-contribution-grid-snake-dark.svg" />
@@ -28,14 +17,6 @@
     <img src="https://img.shields.io/badge/Leedcode-https%3A%2F%2Fleetcode.cn%2Fu%2Fnaughty-shternrl4%2F" alt="LeetCode Profile" />
   </a>
 
-  <br />
-
-  <br />
-
-  <!-- 个人贡献图片 -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="profile-night-rainbow" />
-
-  <br />
   <br />
 
   <!-- GitHub 活动图 -->
