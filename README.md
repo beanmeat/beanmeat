@@ -1,4 +1,9 @@
 <div align="center">
+  ### 💻 编程语言
+| 语言 | 熟练度 | 徽章 |
+|------|--------|------|
+| Java | ⭐⭐⭐⭐ | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| Python | ⭐⭐⭐ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
   <!-- GitHub 贪吃蛇贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beanmeat/beanmeat/output/github-contribution-grid-snake-dark.svg" />
